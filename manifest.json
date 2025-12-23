@@ -1,0 +1,10 @@
+{
+    "id": "ai-chat-sidebar",
+    "name": "AI Chat Sidebar",
+    "version": "1.1.0",
+    "minAppVersion": "1.0.0",
+    "description": "Embed Gemini and ChatGPT directly in your Obsidian sidebar. Switch between AI providers with one click.",
+    "author": "Your Name",
+    "authorUrl": "",
+    "isDesktopOnly": true
+}
